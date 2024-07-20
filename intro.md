@@ -5,4 +5,5 @@ Der Aufsatz von Michael Viktor Schwarz mit dem Titel “Giotto’s Weihnachten -
 # Credits
 
 Dieses Projekt ist entstanden im Kurs "Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert" an der FH Potsdam im Sommersemester 2024 unter der Leitung von Dr. Sabine de Günther.
+
 [Weitere Kursprojekte](https://uclab.fh-potsdam.de/bildargument/)
