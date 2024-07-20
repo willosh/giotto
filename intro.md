@@ -1,8 +1,6 @@
-Adipisicing fugiat exercitation exercitation sunt. Sit voluptate qui labore incididunt esse officia dolore do dolore commodo eiusmod commodo. Sunt nostrud deserunt reprehenderit Lorem eu amet ipsum culpa velit ad nostrud incididunt exercitation ut officia. Cupidatat voluptate nostrud commodo aliquip dolor ad cillum ut labore incididunt consequat laboris.
-
-# How to Use
-
-Use the button below to start (and pause) the audio narration of the chart. You can also explore the chart yourself by selecting any visible items and moving along step by step.
+Wenn wir an Weihnachten denken und dabei an die Geburt von Jesus, dann haben wir unweigerlich ein bestimmtes Bild im Kopf: Die heilige Familie, eine Krippe, ein Stall, Hirten samt ihrer Tiere und die Engel, die das Wunder kundtun.
+Doch wie entstand diese Bildkomposition? War sie von Anfang kultureller, gesellschaftlicher Konsenz?
+Der Aufsatz von Michael Viktor Schwarz mit dem Titel “Giotto’s Weihnachten - eine transkulturelle und intermediale Bilderfindung mit Folgen” geht dieser Frage nach. Seine Aussagen und Vermutungen habe ich in diesem Flowchart visualisiert.
 
 # Credits
 
